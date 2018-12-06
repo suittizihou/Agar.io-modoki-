@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Git/sega/Agar.io(modoki)/Content/Player.png</File>
+    <File>C:/Git/sega/Agar.io(modoki)/Content/Enemy.png</File>
+    <File>C:/Git/sega/Agar.io(modoki)/Content/debugPlayer.png</File>
+    <File>C:/Git/sega/Agar.io(modoki)/Content/Grid.png</File>
+    <File>C:/Git/sega/Agar.io(modoki)/Content/Food.png</File>
+    <File>C:/Git/sega/Agar.io(modoki)/Content/Needle.png</File>
+    <File>C:/Git/sega/Agar.io(modoki)/Content/CrossLine.png</File>
+    <File>C:/Git/sega/Agar.io(modoki)/Content/Number.png</File>
+    <File>C:/Git/sega/Agar.io(modoki)/Content/gamePlay.png</File>
+    <File>C:/Git/sega/Agar.io(modoki)/Content/titleBack.jpg</File>
+    <File>C:/Git/sega/Agar.io(modoki)/Content/File.fx</File>
+    <File>C:/Git/sega/Agar.io(modoki)/Content/TitleReturn.png</File>
+  </SourceFiles>
+</SourceFileCollection>
